@@ -1,0 +1,10 @@
+# Credenciais locais
+secrets.h
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
